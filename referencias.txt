@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/17128210/what-does-rcu-stands-for-in-linux
+https://en.wikipedia.org/wiki/Read-copy-update
+
+http://www.makelinux.net/ldd3/chp-11-sect-5
+
+1344
