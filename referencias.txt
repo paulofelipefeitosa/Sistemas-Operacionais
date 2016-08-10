@@ -8,4 +8,8 @@ http://www.spinics.net/lists/newbies/msg11186.html
 
 https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/tree/include/linux/sched.h?id=refs/tags/v3.16.36
 
+https://www.quora.com/How-do-system-calls-ensure-they-only-return-user-pointers-to-user-space
+http://stackoverflow.com/questions/28445568/how-to-implement-a-system-call-that-has-structure-parameter
+https://www.quora.com/Linux-Kernel-What-does-asmlinkage-mean-in-the-definition-of-system-calls
+
 1344
