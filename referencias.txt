@@ -6,4 +6,6 @@ http://www.makelinux.net/ldd3/chp-11-sect-5
 https://en.wikipedia.org/wiki/Parent_process
 http://www.spinics.net/lists/newbies/msg11186.html
 
+https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/tree/include/linux/sched.h?id=refs/tags/v3.16.36
+
 1344
